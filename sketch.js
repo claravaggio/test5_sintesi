@@ -7,7 +7,7 @@ let ballDefaultY; // Posizione centrale neutrale del cerchio
 let ballDiameter = 50; // Diametro del cerchio
 
 let counter = 0; // Contatore che funge da tachimetro
-let speedIncrease = 0.5; // Velocità di aumento del contatore
+let speedIncrease = 0.9; // Velocità di aumento del contatore
 let decreaseFactor = 0.1; // Fattore di riduzione del contatore
 
 // Variabili per le auto
